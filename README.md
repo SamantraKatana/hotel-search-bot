@@ -21,7 +21,7 @@
 1. Клонируйте репозиторий:
 
 ```bash
-git clone <ссылка-на-репозиторий>
+git clone https://github.com/SamantraKatana/hotel-search-bot.git
 ```
 
 2. Перейдите в папку проекта:
